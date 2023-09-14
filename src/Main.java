@@ -1,4 +1,4 @@
-public class Main {
+public class AVariableModifications {
     public static void main(String[] args) {
         int a = 3;
         // increase the value of variable "a" by 10 and print the new value
